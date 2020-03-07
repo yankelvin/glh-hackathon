@@ -1,0 +1,9 @@
+Package     Version
+----------- -------
+autopep8    1.5    
+nltk        3.4.5  
+pip         20.0.2 
+pycodestyle 2.5.0  
+setuptools  45.2.0 
+six         1.14.0 
+wheel       0.34.2 
